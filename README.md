@@ -32,8 +32,3 @@ Experienced Android Developer with 5+ years of expertise in Java, Kotlin, and An
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-
-<!---
-er-dhimanabhishek/er-dhimanabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
